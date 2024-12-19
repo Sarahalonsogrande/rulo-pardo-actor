@@ -1,0 +1,77 @@
+{
+    "date": "2022-04-03",
+    "movies": [
+        {
+            "Title": "Qué pelo más guay",
+            "Year": "2012",
+            "Rated": "N/A",
+            "Released": "28 May 2022",
+            "Runtime": "82 min",
+            "Genre": "Comedy",
+            "Director": "Borja Echevarría",
+            "Writer": "Santiago Molero, Rulo Pardo",
+            "Actors": "Rulo Pardo, Santiago Molero, Juan Fernández",
+            "Plot": "Two gangsters, one case full of drugs, one abandoned hairdresser, travels to the bathroom, and travels in time.",
+            "Language": "Spanish",
+            "Country": "Spain",
+            "Awards": "N/A",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BZTY2NmI1N2ItNjdiYS00MzhmLTk3ZDktZDhhODE3ZGU0NTEwXkEyXkFqcGdeQXVyMjc1MDI5NDk@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "4.7/10"
+                }
+            ],
+            "Metascore": "N/A",
+            "imdbRating": "4.7",
+            "imdbVotes": "63",
+            "imdbID": "tt2410598",
+            "Type": "movie",
+            "DVD": "N/A",
+            "BoxOffice": "N/A",
+            "Production": "N/A",
+            "Website": "N/A",
+            "Response": "True"
+        },
+        {
+            "Title": "The Godfather",
+            "Year": "1972",
+            "Rated": "R",
+            "Released": "24 Mar 1972",
+            "Runtime": "175 min",
+            "Genre": "Crime, Drama",
+            "Director": "Francis Ford Coppola",
+            "Writer": "Mario Puzo, Francis Ford Coppola",
+            "Actors": "Marlon Brando, Al Pacino, James Caan",
+            "Plot": "The aging patriarch of an organized crime dynasty in postwar New York City transfers control of his clandestine empire to his reluctant youngest son.",
+            "Language": "English, Italian, Latin",
+            "Country": "United States",
+            "Awards": "Won 3 Oscars. 31 wins & 30 nominations total",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "9.2/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "97%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "100/100"
+                }
+            ],
+            "Metascore": "100",
+            "imdbRating": "9.2",
+            "imdbVotes": "1,765,414",
+            "imdbID": "tt0068646",
+            "Type": "movie",
+            "DVD": "11 May 2004",
+            "BoxOffice": "$136,381,073",
+            "Production": "N/A",
+            "Website": "N/A",
+            "Response": "True"
+        }
+    ]
+}
